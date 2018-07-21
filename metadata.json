@@ -1,0 +1,1 @@
+{"name": "Enable CUDA", "uuid": "enable_cuda@vivet.cat", "description": "Enables or Disables CUDA", "shell-version": ["3.18.5"]}
