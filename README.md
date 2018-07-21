@@ -1,2 +1,2 @@
-# enable_cuda-vivet.cat
+# enable_cuda
 Small Gnome Extension to enable or disable CUDA
